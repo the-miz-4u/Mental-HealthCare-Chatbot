@@ -31,5 +31,6 @@ This chatbot is an AI-based project developed for educational and supportive pur
 -   The AI may occasionally generate incorrect information.
 
 #  Chat Interface
+
 <img width="1897" height="1015" alt="image" src="https://github.com/user-attachments/assets/08974e6a-b12c-4920-a420-493958a73c97" />
 
